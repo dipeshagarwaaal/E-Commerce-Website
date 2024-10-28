@@ -1,8 +1,4 @@
-Here's a sample README content tailored for your **ShopCart** project on GitHub:
-
----
-
-SHOPCART
+Shopcart
 
 ShopCart is a comprehensive e-commerce application developed using the MERN stack (MongoDB, Express.js, React, Node.js). This project aims to provide a complete online shopping experience with user registration, cart functionality, product search, reviews, seller dashboards, product management, and order tracking.
 
