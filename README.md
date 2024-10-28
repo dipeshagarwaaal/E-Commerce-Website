@@ -91,22 +91,7 @@ ShopCart is a comprehensive e-commerce application developed using the MERN stac
 - **Sellers** can manage their products, add new listings, and view order statuses.
 - **Admin** has control over all the data in the application, managing users, orders, and products.
 
-## Screenshots
-
-![Home Page](https://github.com/yourusername/shopcart/screenshots/home.png)  
-_Description: Screenshot of the home page_
-
-![Product Page](https://github.com/yourusername/shopcart/screenshots/product.png)  
-_Description: Screenshot of the product page_
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any features, enhancements, or bug fixes.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-Let me know if you'd like any customization or additional sections!
